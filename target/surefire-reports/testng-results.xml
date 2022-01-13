@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-13T21:58:42 IST" name="Suite" finished-at="2022-01-13T21:59:01 IST" duration-ms="19628">
+    <groups>
+    </groups>
+    <test started-at="2022-01-13T21:58:42 IST" name="TestChrome" finished-at="2022-01-13T21:58:51 IST" duration-ms="9677">
+      <class name="com.lm.testcases.TC_LoginTest_001">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.lm.testcases.TC_LoginTest_001@3e77a1ed]" started-at="2022-01-13T21:58:42 IST" name="setup" finished-at="2022-01-13T21:58:43 IST" duration-ms="1125" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.lm.testcases.TC_LoginTest_001@3e77a1ed]" started-at="2022-01-13T21:58:43 IST" name="loginTest" finished-at="2022-01-13T21:58:51 IST" duration-ms="8228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.lm.testcases.TC_LoginTest_001@3e77a1ed]" started-at="2022-01-13T21:58:51 IST" name="teardown" finished-at="2022-01-13T21:58:51 IST" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.lm.testcases.TC_LoginTest_001 -->
+    </test> <!-- TestChrome -->
+    <test started-at="2022-01-13T21:58:52 IST" name="TestFireFox" finished-at="2022-01-13T21:59:01 IST" duration-ms="9320">
+      <class name="com.lm.testcases.TC_LoginTest_001">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.lm.testcases.TC_LoginTest_001@221af3c0]" started-at="2022-01-13T21:58:52 IST" name="setup" finished-at="2022-01-13T21:58:54 IST" duration-ms="2258" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FireFox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.lm.testcases.TC_LoginTest_001@221af3c0]" started-at="2022-01-13T21:58:54 IST" name="loginTest" finished-at="2022-01-13T21:59:00 IST" duration-ms="6109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.lm.testcases.TC_LoginTest_001@221af3c0]" started-at="2022-01-13T21:59:00 IST" name="teardown" finished-at="2022-01-13T21:59:01 IST" duration-ms="938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.lm.testcases.TC_LoginTest_001 -->
+    </test> <!-- TestFireFox -->
+  </suite> <!-- Suite -->
+</testng-results>
