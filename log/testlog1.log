@@ -190,3 +190,19 @@
 2022-01-13 21:58:59,088 [main] INFO Banking - ####password successfully entered #####
 2022-01-13 21:59:00,675 [main] INFO Banking - ####Button clicked successfully #####
 2022-01-13 21:59:00,755 [main] INFO Banking - ####Screenshot taken for Passed test case successfully
+2022-01-14 22:47:42,960 [TestNG-test=TestChrome-1] INFO Banking - ####user name successfully entered #####
+2022-01-14 22:47:43,036 [TestNG-test=TestChrome-1] INFO Banking - ####password successfully entered #####
+2022-01-14 22:47:44,288 [TestNG-test=TestChrome-1] INFO Banking - ####Button clicked successfully #####
+2022-01-14 22:47:44,586 [TestNG-test=TestChrome-1] INFO Banking - ####Screenshot taken for Passed test case successfully
+2022-01-14 22:47:52,731 [main] INFO Banking - ####user name successfully entered #####
+2022-01-14 22:47:52,755 [main] INFO Banking - ####password successfully entered #####
+2022-01-14 22:47:53,918 [main] INFO Banking - ####Button clicked successfully #####
+2022-01-14 22:47:54,017 [main] INFO Banking - ####Screenshot taken for Passed test case successfully
+2022-01-14 23:09:39,200 [TestNG-test=TestChrome-1] INFO Banking - ####user name successfully entered #####
+2022-01-14 23:09:39,279 [TestNG-test=TestChrome-1] INFO Banking - ####password successfully entered #####
+2022-01-14 23:09:40,485 [TestNG-test=TestChrome-1] INFO Banking - ####Button clicked successfully #####
+2022-01-14 23:09:40,887 [TestNG-test=TestChrome-1] INFO Banking - ####Screenshot taken for Passed test case successfully
+2022-01-14 23:09:47,732 [main] INFO Banking - ####user name successfully entered #####
+2022-01-14 23:09:47,765 [main] INFO Banking - ####password successfully entered #####
+2022-01-14 23:09:49,670 [main] INFO Banking - ####Button clicked successfully #####
+2022-01-14 23:09:49,751 [main] INFO Banking - ####Screenshot taken for Passed test case successfully
