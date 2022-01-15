@@ -1,0 +1,10 @@
+when we have higher version of jdk (i.e more than 11) we have to change certian configurations in cmd prompt to execute jenkins:
+
+It works with "java -jar jenkins.war --enable-future-java --httpPort=9090".
+
+Steps:
+
+Go to directory where Jenkins.war is places
+open cmd
+Enter java -jar jenkins.war --enable-future-java --httpPort=9090
+Jenkins will start. then Go to "http://localhost:9090/" and enter "initialAdminPassword" then Jenkins will start properly.
