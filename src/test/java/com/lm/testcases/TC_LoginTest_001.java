@@ -27,18 +27,18 @@ public class TC_LoginTest_001 extends TestBase{
 		
 		if(driver.getTitle().equals("GTPL Bank Manager HomePage"))
 		{
-			takesScreenshot("loginTest");
+			takesScreenshot("loginTest");//logintest is method name coming from tname i,e testmethod name
 			log.info("####Screenshot taken for Passed test case successfully");
-			Assert.assertTrue(true);
-			System.out.println("actual is matching expected test");
+			Assert.assertTrue(true);//just to verify above validation(i.e title match) is correct or not. it is optional.
+			System.out.println("actual is matching expected test");//for displaying in console
 			
 		}
 		else
 		{
 			takesScreenshot("loginTest");
 			log.info("####Screenshot taken for failed test case successfully");
-			Assert.assertTrue(false);
-			System.out.println("actual is not matching expected test");
+			Assert.assertTrue(false);//just to verify above validation(i.e title match) is correct or not. it is optional.
+			System.out.println("actual is not matching expected test");//for displaying in console
 			
 		}
 	}
