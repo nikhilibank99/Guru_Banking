@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-01-19T00:21:39 IST" name="Suite" finished-at="2022-01-19T00:22:12 IST" duration-ms="33559">
+  <suite started-at="2022-01-19T23:21:08 IST" name="Suite" finished-at="2022-01-19T23:21:41 IST" duration-ms="32925">
     <groups>
     </groups>
-    <test started-at="2022-01-19T00:21:39 IST" name="TestChrome" finished-at="2022-01-19T00:22:12 IST" duration-ms="33559">
+    <test started-at="2022-01-19T23:21:08 IST" name="TestChrome" finished-at="2022-01-19T23:21:41 IST" duration-ms="32925">
       <class name="com.lm.testcases.Tc_NewCustomer_002">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.lm.testcases.Tc_NewCustomer_002@1139b2f3]" started-at="2022-01-19T00:21:39 IST" name="setup" finished-at="2022-01-19T00:21:40 IST" duration-ms="1259" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.lm.testcases.Tc_NewCustomer_002@7a69b07]" started-at="2022-01-19T23:21:08 IST" name="setup" finished-at="2022-01-19T23:21:10 IST" duration-ms="1979" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="newCustomerTest()[pri:0, instance:com.lm.testcases.Tc_NewCustomer_002@1139b2f3]" started-at="2022-01-19T00:21:40 IST" name="newCustomerTest" finished-at="2022-01-19T00:22:12 IST" duration-ms="31871" status="PASS">
+        <test-method signature="newCustomerTest()[pri:0, instance:com.lm.testcases.Tc_NewCustomer_002@7a69b07]" started-at="2022-01-19T23:21:10 IST" name="newCustomerTest" finished-at="2022-01-19T23:21:41 IST" duration-ms="30526" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- newCustomerTest -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.lm.testcases.Tc_NewCustomer_002@1139b2f3]" started-at="2022-01-19T00:22:12 IST" name="teardown" finished-at="2022-01-19T00:22:12 IST" duration-ms="241" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.lm.testcases.Tc_NewCustomer_002@7a69b07]" started-at="2022-01-19T23:21:41 IST" name="teardown" finished-at="2022-01-19T23:21:41 IST" duration-ms="206" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->

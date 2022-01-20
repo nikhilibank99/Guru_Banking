@@ -80,6 +80,12 @@ public static String randomMonth() {
 public static String randomYear() {
 	String gs3=RandomStringUtils.randomNumeric(4);
 	return gs3;}
+public static String randomEmail()
+{
+	String email=RandomStringUtils.randomAlphabetic(8);
+	return email;
+}
+
 }
 
 
